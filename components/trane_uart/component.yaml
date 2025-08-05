@@ -1,0 +1,5 @@
+name: "Trane UART"
+description: "Test component for sending Trane RS485 messages"
+files:
+  - trane_uart_test.cpp
+  - trane_uart_test.h
