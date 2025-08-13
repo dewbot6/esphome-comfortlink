@@ -22,8 +22,8 @@ ota:
   platform: esphome
 
 wifi:
-  ssid: "Your_WiFi_SSID"
-  password: "Your_WiFi_Password"
+  ssid: "Gipsy Danger"
+  password: !secret wifi_password
 
 uart:
   id: uart_bus
